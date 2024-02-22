@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi I'm kai!</h1>
+<h1 align="center">Hi I'm Sky!</h1>
 
 
 - 🧙Trying to be a Software Engineer
-- 💭Currently learning about [Javascript Design Patterns](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/)
+- 💭Currently learning about [Learning JavaScript Design Patterns](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/) & [Clean Code in JavaScript](https://www.amazon.com/Clean-Code-JavaScript-reliable-maintainable/dp/1789957648)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sky-lien) 
