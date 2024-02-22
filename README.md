@@ -1,25 +1,16 @@
-### Hi I'm kai!
 
-🧙Trying to be a Software Engineer <br/>
-🏫Studied [Computer Science] at the University of Quemon,Taiwan<br/>
-💭Currently learning about Javascript Design Patterns
+<h1 align="center">Hi I'm kai!</h1>
+
+
+- 🧙Trying to be a Software Engineer
+- 💭Currently learning about [Javascript Design Patterns](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/)
+
+<h3 align="left">Connect with me</h3>
+
+
+
 
 [![Szu_Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenkai0812&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenkai0812&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<!--
-**tenkai0812/tenkai0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
