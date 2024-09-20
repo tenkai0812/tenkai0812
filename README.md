@@ -2,7 +2,8 @@
 <h1 align="center">Hi I'm Sky!</h1>
 
 
-- 🧙Trying to be a Software Engineer
+- 🧙Trying to be a Great Software Engineer
+- 🙏Grateful for all the chances
 - 💭Currently learning about [Learning JavaScript Design Patterns](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/) & [Clean Code in JavaScript](https://www.amazon.com/Clean-Code-JavaScript-reliable-maintainable/dp/1789957648)
 
 ## 🌐 Socials:
@@ -12,6 +13,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sky_Lien) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@skylien0966065599) 
 
+## 💻 Currently learning:
+ ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -25,6 +30,7 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tenkai0812&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tenkai0812&theme=dark&hide_border=false)<br/>
