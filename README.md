@@ -2,7 +2,7 @@
 <h1 align="center">Hi I'm Sky!</h1>
 
 
-- 🧙Trying to be a Great Software Engineer
+- 🧙Trying to be a Good Junior Software Engineer
 - 🙏Grateful for all the chances
 - 💭Currently learning about [Learning JavaScript Design Patterns](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/) & [Clean Code in JavaScript](https://www.amazon.com/Clean-Code-JavaScript-reliable-maintainable/dp/1789957648)
 
