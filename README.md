@@ -5,6 +5,7 @@
 - 🧙Trying to be a Good Junior Software Engineer
 - 🙏Grateful for all the chances
 - 💭Currently learning about [Learning JavaScript Design Patterns](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/) & [Clean Code in JavaScript](https://www.amazon.com/Clean-Code-JavaScript-reliable-maintainable/dp/1789957648)
+- 🤡別人笑我太瘋癲 我笑他人看不穿 不見武嶺豪傑墓 無花無酒鋤作田
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sky-lien) 
@@ -38,7 +39,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tenkai0812&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
+## 🧩 LeetCode 統計
+![LeetCode Stats](https://leetcard.jacoblin.cool/tenkai?theme=dark&font=Noto%20Sans%20TC)
 ---
 [![](https://visitcount.itsvg.in/api?id=tenkai0812&icon=2&color=12)](https://visitcount.itsvg.in)
 
